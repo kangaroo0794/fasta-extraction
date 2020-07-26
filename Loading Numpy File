@@ -1,0 +1,4 @@
+import numpy as np
+
+data = np.load('1000_pos_DNC.npy')
+print(data)
